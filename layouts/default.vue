@@ -37,4 +37,6 @@ a:visited { color: red; }
 .link { margin-bottom: 24px; width: max-content; }
 /* .bg { background: pink; } */
 
+p {  margin-bottom: 16px; }
+
 </style>
