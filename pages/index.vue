@@ -1,10 +1,12 @@
 <template>
   <div>
     <div v-for="post of posts" :key="post.slug">
-      <NuxtLink class="link" :to="post.slug">
-        <h1 class="bg">{{ post.title }}</h1>
-        <h6>{{ post.description }}</h6>
-      </NuxtLink>
+      <div class="link">
+        <NuxtLink :to="post.slug">
+          <h1 class="bg">{{ post.title }}</h1>
+          <h6>{{ post.description }}</h6>
+        </NuxtLink>
+      </div>
     </div>
   </div>
 </template>

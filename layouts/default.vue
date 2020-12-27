@@ -31,10 +31,10 @@ html {
   margin: 0;
 }
 
-body { color: red; }
+
+a {  color: red;}
 a:visited { color: red; }
-.link { margin-bottom: 24px; }
-.link > * { width: max-content; }
-.bg { background: pink; }
+.link { margin-bottom: 24px; width: max-content; }
+/* .bg { background: pink; } */
 
 </style>

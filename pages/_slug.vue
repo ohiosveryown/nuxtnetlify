@@ -1,6 +1,8 @@
 <template>
   <div>
+    <!-- blog post page content / style -->
     <h2>{{ post.title }}</h2>
+    <h6>Blog post style / content</h6>
     <nuxt-content :document="post" />
     <!-- <small>Hello</small> -->
   </div>
