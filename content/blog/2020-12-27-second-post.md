@@ -1,5 +1,5 @@
 ---
-title: Second Post
+title: Second Post 👋🏼
 date: 2020-12-27T16:38:23.223Z
 description: This is the second post excerpt
 pullquote: I'll show you every version of yourself tonight
